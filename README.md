@@ -2,7 +2,7 @@
 
 Sewersearch, also known as DiverMin, is the final project of CS2110 making use of personally-created heaps, Djikstra's algorithm, dfs, and bfs. The game is minimally interactive and the "high score" is contingent on how effective the implemented algorithm is on a certain map seed. 
 
-Not all codeis original, only functions written in the student package are (with some minor exceptions). 
+Not all code is original, only functions written in the student package are (with some minor exceptions). 
 
 I have chosen not to include the original code due to the fact that instructor solutions to the instructor's implementation of Djikstra's algorithm and heaps have been posted with it. My work in no way takes influence from the instructor's solutions and were last modified before solutions were posted. The original handout has been included 
 [here](https://drive.google.com/file/d/1Xrpt7SDBQgpR7gNKQD66W6k_FnsL2V1p/view?usp=sharing). 
