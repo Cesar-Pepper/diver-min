@@ -1,6 +1,6 @@
-# sewersearch
+# Diver Min
 
-Sewersearch, also known as DiverMin, is the final project of CS2110 making use of personally-created heaps, Djikstra's algorithm, dfs, and bfs. The game is minimally interactive and the "high score" is contingent on how effective the implemented algorithm is on a certain map seed. 
+Diver Min is the final project of CS2110 making use of personally-created heaps, Djikstra's algorithm, dfs, and bfs. The game is minimally interactive and the "high score" is contingent on how effective the implemented algorithm is on a certain map seed. The game follows a sewer diver as he attempts to retrieve a gem in the fewest steps possible and to exit the sewer while collecting as many coins as possible, time (measured as steps) permitting. 
 
 Not all code is original, only functions written in the student package are (with some minor exceptions). 
 
